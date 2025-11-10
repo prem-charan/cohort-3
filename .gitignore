@@ -7,19 +7,3 @@ dist/
 .env
 
 *.tsbuildinfo
-
-*.log
-
-.vscode/*
-!.vscode/extensions.json
-.idea
-.DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
-
-Thumbs.db
-ehthumbs.db
-Desktop.ini
